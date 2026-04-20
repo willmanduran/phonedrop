@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=PhoneDrop
+Exec=phonedrop %F
+Icon=phonedrop
+Type=Application
+Terminal=false
+MimeType=application/octet-stream;image/jpeg;image/png;video/mp4;application/pdf;
+Categories=Utility;
+Actions=SendToPhone;
+
+[Desktop Action SendToPhone]
+Name=Send to phone with PhoneDrop
+Name[es]=Enviar al teléfono con PhoneDrop
+Exec=phonedrop %F
