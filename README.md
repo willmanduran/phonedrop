@@ -1,4 +1,4 @@
-# PhoneDrop — Willman’s Toolbox
+# PhoneDrop
 Transfer files to your phone via QR. Free and open.
 
 ## The Concept
